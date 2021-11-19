@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35" started-at="2021-11-19T15:07:21Z" finished-at="2021-11-19T15:07:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35" started-at="2021-11-19T15:07:21Z" finished-at="2021-11-19T15:07:21Z">
+      <class name="com.testng.features.Simple_Annotations">
+        <test-method status="PASS" signature="setproperty()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="setproperty" is-config="true" duration-ms="15" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setproperty -->
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="browserlaunch" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="url" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="dresses()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="dresses" duration-ms="10" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresses -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="signin" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="signin" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="tshirts()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="tshirts" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tshirts -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="signoff" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+        <test-method status="PASS" signature="homepage()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="homepage" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method status="PASS" signature="women()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="women" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="signoff" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="signin" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="signoff" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="close" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="cookies()[pri:0, instance:com.testng.features.Simple_Annotations@15b204a1]" name="cookies" is-config="true" duration-ms="0" started-at="2021-11-19T20:37:21Z" finished-at="2021-11-19T20:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+      </class> <!-- com.testng.features.Simple_Annotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
